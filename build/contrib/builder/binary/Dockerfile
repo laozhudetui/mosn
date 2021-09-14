@@ -1,4 +1,4 @@
-FROM golang:1.14.13
+FROM golang:1.16.7
 MAINTAINER xiaodong.dxd@alibaba-inc.com,zewen.pzw@alibaba-inc.com,linzhengchun.lzc@alibaba-inc.com
 
 # use go mod vendor mode for build and test
